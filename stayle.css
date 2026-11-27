@@ -1,0 +1,182 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.tarif{
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .span{
+        font-size: 15px;
+    }
+}
+.o{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    .span__2{
+        font-size: 19px;
+    }
+}
+
+
+.wraper{
+    padding: 20px 30px;
+    border: 1px solid;
+    width: 1200px;
+    height: 900px;
+    margin: auto;
+
+
+    .cards{
+        gap: 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-top: 30px;
+        padding: 20px 30px;
+        border: 1px solid;
+    }
+    .card1{
+        width: 300px;
+        height: 280px;
+        border: 1px solid;
+        text-align: center;
+        gap: 20px;
+        margin-top: 40px;
+        .del{
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .B{
+            margin-top: 10px;
+        }
+        .s{
+            margin-top: 6px;
+           .span__text{
+            font-size: 20px;
+            color: gray;
+           }
+        }
+        .span__3{
+            font-size: 15px;
+        }
+        .card1__text{
+            margin-top: 10px;
+            color: gray;
+        }
+        .vaqt{
+            color: gray;
+            margin-top: 10px;
+        }
+        .button{
+            width: 200px;
+            height: 26px;
+            border: 1px solid;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+            margin-top: 10px;
+        }
+    }
+    .card2{
+        width: 300px;
+        height: 280px;
+        border: 1px solid;
+        text-align: center;
+        gap: 20px;
+        margin-top: 40px;
+        background-color: black;
+        color: white;
+        .del{
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .B{
+            margin-top: 10px;
+        }
+        .s{
+            margin-top: 6px;
+           .span__text{
+            font-size: 20px;
+           }
+        }
+        .span__3{
+            font-size: 15px;
+        }
+        .card1__text{
+            margin-top: 10px;
+        }
+        .vaqt{
+            margin-top: 10px;
+        }
+        .button{
+            width: 200px;
+            height: 26px;
+            border: 1px solid;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+            margin-top: 10px;
+            background-color: white;
+            color: black;
+        }
+    }
+    .card3{
+        width: 300px;
+        height: 280px;
+        border: 1px solid;
+        text-align: center;
+        gap: 20px;
+        margin-top: 40px;
+        .del{
+            margin-top: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .B{
+            margin-top: 10px;
+        }
+        .s{
+            margin-top: 6px;
+           .span__text{
+            font-size: 20px;
+            color: gray;
+           }
+        }
+        .span__3{
+            font-size: 15px;
+        }
+        .card1__text{
+            margin-top: 10px;
+            color: gray;
+        }
+        .vaqt{
+            color: gray;
+            margin-top: 10px;
+        }
+        .button{
+            width: 200px;
+            height: 26px;
+            border: 1px solid;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: auto;
+            margin-top: 10px;
+        }
+    }
+
+
+    
+}
